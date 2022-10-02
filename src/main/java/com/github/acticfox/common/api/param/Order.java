@@ -2,11 +2,10 @@ package com.github.acticfox.common.api.param;
 
 import java.io.Serializable;
 
-import javax.validation.constraints.NotNull;
+import jakarta.validation.constraints.NotNull;
 
 /**
- * 用于排序使用
- * 类Order.java的实现描述：TODO 类实现描述
+ * 用于排序使用 类Order.java的实现描述：TODO 类实现描述
  * 
  * @author fanyong.kfy 2013-8-16 上午11:19:30
  */

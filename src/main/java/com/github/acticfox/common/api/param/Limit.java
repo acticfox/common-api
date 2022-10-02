@@ -2,11 +2,10 @@ package com.github.acticfox.common.api.param;
 
 import java.io.Serializable;
 
-import javax.validation.constraints.Min;
+import jakarta.validation.constraints.Min;
 
 /**
- * 主要用于分页，提取数据offset-length
- * 类Limit.java的实现描述：TODO 类实现描述
+ * 主要用于分页，提取数据offset-length 类Limit.java的实现描述：TODO 类实现描述
  * 
  * @author fanyong.kfy 2013-8-16 上午11:18:29
  */
