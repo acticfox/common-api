@@ -85,7 +85,7 @@ rpclog，可⽤于接⼝以及⽅法上 |
  |
 
 ## **7.dempotence注解定义**
-具体使用参考[distributed-tools](http://wiki.zhichubaohost.com/pages/viewpage.action?pageId=24709406)中的幂等组件。
+具体使用参考[redis-distributed-tools](https://github.com/acticfox/redis-distributed-tools)中的幂等组件。
 ## **8.基础工具类定义**
 | **定义** | **用途** | **备注** |
 | --- | --- | --- |
